@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)" width="800" alt="coding-gif"/>
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="600" alt="coding-gif"/>
 </div>
 <h1 align="center">Hi 👋, I'm Yassine Drira</h1>
 <h3 align="center">Software Engineering Student • Machine Learning Enthusiast • CNN Explorer • Frontend Developer</h3>
