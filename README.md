@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif" width="600" alt="coding-gif"/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Yassine Drira</h1>
 <h3 align="center">Software Engineering Student • Machine Learning Enthusiast • CNN Explorer • Frontend Developer</h3>
 
@@ -18,6 +16,9 @@ I'm a passionate **Software Engineering student** exploring the intersection of:
 I love building projects that combine **intelligent models** with **polished UI/UX**.
 
 ---
+<div align="center">
+  <img src="https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif" width="600" alt="coding-gif"/>
+</div>
 
 ### 🔥 What I'm Focusing On
 - **Mastering CNNs**, neural architectures & ML workflows  
