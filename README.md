@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="600" alt="coding-gif"/>
+  <img src="https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif" width="600" alt="coding-gif"/>
 </div>
 <h1 align="center">Hi 👋, I'm Yassine Drira</h1>
 <h3 align="center">Software Engineering Student • Machine Learning Enthusiast • CNN Explorer • Frontend Developer</h3>
