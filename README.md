@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Yassine  Drira </h1>
+<h1 align="center">Hi 👋, I'm Yassine Drira </h1>
 <h3 align="center">Software Engineering Student • Backend & Systems Builder • Machine Learning Learner • Full-Stack Developer</h3>
 
 <div align="center">
