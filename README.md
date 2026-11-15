@@ -20,8 +20,9 @@ I focus on turning academic knowledge into **production-style projects** through
 ---
 
 <div align="center">
-  <img src="https://miro.medium.com/1*JWUo12h7s-OVYFgsQmyu_w.gif" width="600" alt="coding-gif"/>
+  <img src="https://giphy.com" width="500" alt="Coding Animation"/>
 </div>
+
 
 ---
 
