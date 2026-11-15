@@ -20,7 +20,7 @@ I focus on turning academic knowledge into **production-style projects** through
 ---
 
 <div align="center">
-  <img src="https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif" width="600" alt="coding-gif"/>
+  <img src="[https://community.wolfram.com/c/message_boards/get_message_attachment?messageId=1381000&attachment=a2.gif](https://miro.medium.com/max/1152/1*KteGDjA9gflRcRcEThpy4w.gif)" width="600" alt="coding-gif"/>
 </div>
 
 ---
