@@ -19,8 +19,13 @@ I focus on turning academic knowledge into **production-style projects** through
 
 ---
 
+
 <div align="center">
-  <img src="https://giphy.com" width="500" alt="Coding Animation"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="700"
+    alt="Animated neural network visualization"
+  />
 </div>
 
 
