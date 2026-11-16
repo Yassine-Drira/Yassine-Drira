@@ -133,24 +133,21 @@ Email: **yassinedrira3@gmail.com**
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-drira&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-drira&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yassine-Drira&theme=tokyonight" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yassine-Drira&theme=tokyonight" height="170" alt="Repos Per Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-drira&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yassine-Drira&theme=tokyonight" width="700" alt="GitHub Contribution Profile"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-drira&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassine-drira&theme=radical&no-frame=true&margin-w=8"/>
+  <img src="https://github-trophies.vercel.app/?username=Yassine-Drira&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
 </p>
-
----
-
-## ☕ Support Me
-<a href="https://www.buymeacoffee.com/Yassine_Drira">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
-</a>
