@@ -1,21 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0821,45:2B1466,100:7C5CFF&height=210&section=header&text=Yassine%20Drira&fontSize=48&fontColor=F7F4FF&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20Backend%20%26%20Systems%20%E2%80%A2%20Data%20Pipelines%20%E2%80%A2%20Applied%20AI&descAlignY=57&descSize=15&animation=twinkling" width="100%" alt="Yassine Drira Header"/>
+  <br/>
+  <h1>Yassine Drira</h1>
+  <p>
+    <sub><code>SOFTWARE ENGINEERING @ FST TUNIS (EXPECTED JULY 2028)</code> &nbsp;·&nbsp; <code>BACKEND &amp; SYSTEMS</code> &nbsp;·&nbsp; <code>DATA PIPELINES</code> &nbsp;·&nbsp; <code>FULL-STACK &amp; APPLIED AI</code></sub>
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=34&lines=Software+Engineering+%40+FST+Tunis+(Expected+July+2028);Multi-Tenant+SaaS+%E2%80%A2+PostgreSQL+RLS+%E2%80%A2+Distributed+Quotas;Data+Pipelines+%E2%80%A2+Real-Time+WebSockets+%E2%80%A2+Applied+AI" alt="Engineering Telemetry"/>
+  </p>
+  <p>
+    <a href="https://yassinedrira.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-yassinedrira.dev-7C5CFF?style=for-the-badge&labelColor=0E0821" alt="Portfolio"/></a>
+    <a href="https://validily4all.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-validily4all.vercel.app-10B981?style=for-the-badge&labelColor=0E0821" alt="Validily Live SaaS"/></a>
+    <a href="https://www.linkedin.com/in/yassine-driraswe/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7C5CFF?style=for-the-badge&labelColor=0E0821&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/></a>
+    <a href="mailto:yassinedrira3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-MESSAGE-7C5CFF?style=for-the-badge&labelColor=0E0821&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS_%C2%B7_PART_TIME-1D1242?style=for-the-badge&labelColor=0E0821" alt="Open to internships and part-time roles"/>
+  </p>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=FST+Tunis+Software+Engineering+(Expected+July+2028);Multi-Tenant+SaaS+%E2%80%A2+PostgreSQL+RLS+%E2%80%A2+Distributed+Quotas;Data+Pipelines+%E2%80%A2+Real-Time+WebSockets+%E2%80%A2+Applied+AI" alt="Engineering Telemetry"/>
-</p>
-
-<p align="center">
-  <a href="https://yassinedrira.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-yassinedrira.dev-7C5CFF?style=for-the-badge&labelColor=0E0821" alt="Portfolio"/></a>
-  <a href="https://validily4all.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE_SAAS-validily4all.vercel.app-10B981?style=for-the-badge&labelColor=0E0821" alt="Validily Live SaaS"/></a>
-  <a href="https://www.linkedin.com/in/yassine-driraswe/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1D1242?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/></a>
-  <a href="mailto:yassinedrira3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yassinedrira3%40gmail.com-150D30?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS_%C2%B7_PART_TIME-1D1242?style=for-the-badge&logoColor=C4B5FD" alt="Open to internships and part-time roles"/>
-</p>
 
 ---
 
@@ -119,7 +120,7 @@
         Live multi-tenant academic workspace built with <strong>Next.js 16</strong>, <strong>React 19</strong>, <strong>TypeScript</strong>, <strong>Supabase PostgreSQL 18 (RLS)</strong>, and <strong>Upstash Redis</strong>. Features database-enforced cohort isolation, rolling AI quotas with <code>Groq → Gemini</code> failover, SHA-256 verified backups, <strong>640/640</strong> passing automated tests, and <strong>-82.5%</strong> measured PostgREST payload reduction.
       </p>
       <p>
-        <a href="https://validily4all.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-validily4all.vercel.app-10B981?style=flat-square" alt="Validily Live"/></a>
+        <a href="https://validily4all.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-validily4all.vercel.app-10B981?style=flat-square&labelColor=0E0821" alt="Validily Live"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -216,14 +217,16 @@
 </p>
 
 <p align="center">
-  <a href="https://yassinedrira.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yassinedrira.dev-7C5CFF?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/yassine-driraswe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-yassine--driraswe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/yassinedriraaa" target="_blank"><img src="https://img.shields.io/badge/Kaggle-yassinedriraaa-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61574326640246" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/yassine._.drira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40yassine.__.drira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:yassinedrira3@gmail.com"><img src="https://img.shields.io/badge/Email-yassinedrira3%40gmail.com-1D1242?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
+  <a href="https://yassinedrira.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yassinedrira.dev-7C5CFF?style=for-the-badge&labelColor=0E0821" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yassine-driraswe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-yassine--driraswe-0A66C2?style=for-the-badge&labelColor=0E0821&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/yassinedriraaa" target="_blank"><img src="https://img.shields.io/badge/Kaggle-yassinedriraaa-20BEFF?style=for-the-badge&labelColor=0E0821&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61574326640246" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&labelColor=0E0821&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/yassine._.drira" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40yassine.__.drira-E4405F?style=for-the-badge&labelColor=0E0821&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:yassinedrira3@gmail.com"><img src="https://img.shields.io/badge/Email-yassinedrira3%40gmail.com-7C5CFF?style=for-the-badge&labelColor=0E0821&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,55:2B1466,100:0E0821&height=105&section=footer" width="100%" alt="Yassine Drira Footer"/>
-</div>
+---
+
+<p align="center">
+  <sub><code>// BUILT BY YASSINE DRIRA · TUNIS, TUNISIA · YASSINEDRIRA.DEV</code></sub>
+</p>
